@@ -1,8 +1,8 @@
-# The Greatest Catch of The Sea (My Coding Portfolio- Version 2)
+# The Greatest Catch of The Sea (My Coding Portfolio- Version 2 Updated)
 
 Everything always could use an upgrade, and my coding portfolio is no exception! Check out my new and improved skills and my lastest coding projects on my new page below!
 
-![Portfolio Demo](./assets/images/portfolio-demo.gif)
+![Portfolio Demo](./assets/images/portfolio-3.gif)
 
 #### Check Out Here: https://hanlee-311.github.io/portfolio-3/
 
