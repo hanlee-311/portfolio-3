@@ -2,7 +2,7 @@
 
 Everything always could use an upgrade, and my coding portfolio is no exception! Check out my new and improved skills and my lastest coding projects on my new page below!
 
-![Portfolio Demo](./assets/images/portfolio-3.gif)
+![Portfolio Demo](./assets/images/portfolio-demo.gif)
 
 #### Check Out Here: https://hanlee-311.github.io/portfolio-3/
 
