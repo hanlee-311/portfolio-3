@@ -120,7 +120,7 @@ nav {
     transition: 0.3s;
 }
 
-.past-work-container:hover #two,.past-work-container:hover #three,.past-work-container:hover #four, .past-work-container:hover #one {
+.past-work-container:hover #two,.past-work-container:hover #three,.past-work-container:hover #four, .past-work-container:hover #one, .past-work-container:hover #five, .past-work-container:hover #six {
     display: none;
     transition: 0.3s
 }
@@ -144,6 +144,16 @@ nav {
 }
 
 .text-wrapper p {
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-shadow: 2px 2px 5px black;
+}
+
+#one {
+    z-index: 1;
+    margin-left: 50%;
+    margin-top: 16%;
+    transform: translate(-50%, -50%);
     color: white;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     text-shadow: 2px 2px 5px black;
