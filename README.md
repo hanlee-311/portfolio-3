@@ -4,7 +4,7 @@ Everything always could use an upgrade, and my coding portfolio is no exception!
 
 ![Portfolio Demo](./assets/images/portfolio-demo.gif)
 
-#### Check Out Here: https://hanlee-311.github.io/hannah-lee-portfolio/
+#### Check Out Here: https://hanlee-311.github.io/portfolio-3/
 
 ## Description
 I am a Biology graduate looking to switch careers from reading genetic code to writing computer code. I suppose the art of code has been coded into my DNA! 
@@ -14,9 +14,9 @@ There are three things in life that I enjoy more than anything else: creating, o
 Over the course of my new-found career, I have started to build up examples of what I can do with code. Think that I may be the person for your upcoming project? Take a look through my work and let my code speak for itself!
 
 ## Features
--Click the links at the top and scroll to the part to the page!
--Click on the icons in the nav and jump to my LinkedIn, Github, or email me (and see my phone number!)
--Click on the images of my past work and get taken to those deployed applications to check out!
+- Click the links at the top and scroll to the part to the page!
+- Click on the icons in the nav and jump to my LinkedIn, Github, or email me (and see my phone number!)
+- Click on the images of my past work and get taken to those deployed applications to check out!
 
 ## Resources
 - [Parallax Image](https://line.17qq.com/articles/schwuucrx.html)
