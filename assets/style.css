@@ -34,11 +34,11 @@ nav {
 }
 
 .section-2 {
-    height: 500px;
+    height: 250px;
 }
 
 .section-3 {
-    height: 1700px;
+    height: 900px;
 }
 
 .name {
@@ -96,6 +96,12 @@ nav {
     bottom: -20px;
     right: 0;
     width: 300px;
+}
+
+/* My Skills Syling */
+.skill-image {
+    height: 100px;
+    margin: 1em;
 }
 
 /* My work Styling */
@@ -296,6 +302,17 @@ body {
         font-size: 50px;
         z-index: 1;
         transform: translate(-50%,-50%);
+    }
+
+    #one {
+        z-index: 1;
+        font-size: 50px;
+        margin-left: 50%;
+        margin-top: 40%;
+        transform: translate(-50%, -50%);
+        color: white;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        text-shadow: 2px 2px 5px black;
     }
     
     #two {
